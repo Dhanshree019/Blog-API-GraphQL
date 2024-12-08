@@ -51,19 +51,21 @@
 
 ## Create Post
 
-![Alt Text](screenshots\create_post.png)
+![image](https://github.com/Dhanshree019/Blog-API/blob/main/screenshots/all_posts.png)
+
 
 ## Update Post
-![Alt Text](screenshots\update_post.png)
+![image](https://github.com/Dhanshree019/Blog-API/blob/main/screenshots/update_post.png)
 
 ## Create Comment
-![Alt Text](screenshots\create_comment.png)
+![image](https://github.com/Dhanshree019/Blog-API/blob/main/screenshots/create_comment.png)
 
 ## Get All Posts
-![Alt Text](screenshots\all_posts.png)
+
+![image](https://github.com/Dhanshree019/Blog-API/blob/main/screenshots/all_posts.png)
 
 ## Get Post By Id
-![Alt Text](screenshots\post_by_id.png)
+![image](https://github.com/Dhanshree019/Blog-API/blob/main/screenshots/post_by_id.png)
 
 ## Delete Post
-![Alt Text](screenshots\delete_comment.png)
+![image](https://github.com/Dhanshree019/Blog-API/blob/main/screenshots/delete_comment.png)
