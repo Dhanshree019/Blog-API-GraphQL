@@ -1,0 +1,9 @@
+ERROR 2024-12-08 20:41:59,861 Post with id 1 not found.
+INFO 2024-12-08 20:43:38,050 Post created: Leran GraphQL by John
+INFO 2024-12-08 20:44:01,109 Post created: Learn GraphQL by John
+INFO 2024-12-08 20:46:05,305 Post updated: Learn GraphQL
+INFO 2024-12-08 20:48:22,098 Comment created by Dhanshree on post Learn GraphQL
+INFO 2024-12-08 20:50:31,442 Retrieved post with id 3: Learn GraphQL
+INFO 2024-12-08 20:51:41,549 Retrieved all posts: 1 found.
+ERROR 2024-12-08 20:52:50,008 Comment with id 1 does not exist.
+INFO 2024-12-08 20:52:56,142 Comment deleted: 3
